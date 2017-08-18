@@ -5,8 +5,9 @@ body {
 }
 
 #cardbuilder {
-	width: 90%;
-	margin: auto;
+	max-width: 80%;
+	margin:  auto;
+	text-align: center;
 }
 
 .btn {
@@ -39,8 +40,16 @@ body {
 #prettycard {
 	display: inline-block;
 	background-color: #fff;
+	border-radius: 1px;
+	box-shadow: 0 8px 6px -6px black;
 	text-align: center;
 	padding: 20px;
 	margin: 20px;
 
+}
+
+.header {
+	margin-top: 15%;
+	color: #fff;
+	font-size: 3	em;
 }
