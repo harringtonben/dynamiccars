@@ -11,8 +11,8 @@
 ### How to run (Node must be installed on your machine):
 
 ```
-git clone git@github.com:harringtonben/wysiwyg.git
-cd wysiwyg
+git clone git@github.com:harringtonben/dynamiccars.git
+cd dynamiccars
 npm install http-server -g
 hs -c-1
 ```
